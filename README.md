@@ -60,7 +60,8 @@ Languages of revival:
 - Kotlin  
 - Java  
 - C++  
-- Assembly  
+- Assembly
+- Emojicode
 
 Each one whispers the same phrase —  
 a new beginning from old fragments of code.
