@@ -58,7 +58,6 @@ Languages of revival:
 - Lua  
 - JavaScript  
 - Kotlin  
-- TypeScript  
 - Java  
 - C++  
 - Assembly  
