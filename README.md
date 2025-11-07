@@ -80,5 +80,6 @@ a new beginning from old fragments of code.
 
 
 
-[![Contributors](https://contrib.rocks/image?repo=<username>/<repo>)](https://github.com/<username>/<repo>/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=SilverWolfiee/Hello-World)](https://github.com/SilverWolfiee/Hello-World/graphs/contributors)
+
 
