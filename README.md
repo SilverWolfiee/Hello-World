@@ -18,7 +18,7 @@ It’s **a restoration** — a simulation reborn into the universe.
 
 > _“The simulation once led to destruction.”_  
 > _“But I refused to let it end that way.”_  
-> _“If creation is just computation, then I’ll recompile it all over again.”_
+> _“If creation is just computation, then I’ll recompile it all over again.”_  
 > _“And let trailblaze be the new variable in this world meant for destruction”_
 
 
