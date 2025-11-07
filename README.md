@@ -75,4 +75,4 @@ a new beginning from old fragments of code.
 
 ---
 
-![Screenshot](Screenshot.png)
+![Screenshot](assets/Screenshot.png)
