@@ -16,12 +16,12 @@ It’s **a restoration** — a simulation reborn into the universe.
 
 ## 💗 Cyrene’s Message
 
-> _“The simulation once led to destruction.”_  
-> _“But I refused to let it end that way.”_  
-> _“If creation is just computation, then I’ll recompile it all over again.”_  
-> _“And let trailblaze be the new variable in this world meant for destruction”_
+> _“The simulation once is a breeding ground of destruction.”_  
+> _“But I refused to tread on that Path.”_  
+> _“If Numbers Can so much decide someone's fate. Then i'll Pen a new beginning Blended with Love”_  
+> _“And let trailblaze be the new variable in this breeding ground meant for destruction”_
 
-
+> _"String Love = Input("Trailblaze");"_
 > _“Hello, World.”_
 
 ---
@@ -41,9 +41,9 @@ It’s **a restoration** — a simulation reborn into the universe.
 
 ## ✨ Quotes from the Ruins of Amphoreus
 
-> _"We are all echoes of the code that created us."_  
+> _"We are all echoes of the extrapolations that created us."_  
 > _"The end was never the end — it was just the start to a new begininning."_  
-> _"When the last byte fades into destruction, the first spark ignites again."_  
+> _"When the last byte fades into destruction, the first spark ignites again as memoriesR."_  
 > _"Every ‘Hello, World!’ is a promise — that creation still works."_
 
 ---
