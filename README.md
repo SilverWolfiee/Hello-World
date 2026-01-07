@@ -20,7 +20,6 @@ It’s **a restoration** — a simulation reborn into the universe.
 > _“But I refused to tread on that Path.”_  
 > _“If Numbers Can so much decide someone's fate. Then i'll Pen a new beginning Blended with Love”_  
 > _“And let trailblaze be the new variable in this breeding ground meant for destruction”_
-
 > _"String Love = Input("Trailblaze");"_
 > _“Hello, World.”_
 
@@ -43,7 +42,7 @@ It’s **a restoration** — a simulation reborn into the universe.
 
 > _"We are all echoes of the extrapolations that created us."_  
 > _"The end was never the end — it was just the start to a new begininning."_  
-> _"When the last byte fades into destruction, the first spark ignites again as memoriesR."_  
+> _"When the last byte fades into destruction, the first spark ignites again as memories."_  
 > _"Every ‘Hello, World!’ is a promise — that creation still works."_
 
 ---
