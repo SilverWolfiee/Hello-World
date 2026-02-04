@@ -1,4 +1,4 @@
-# 🌌 Hello, World!
+# Hello, World!
 
 
 ---
@@ -14,7 +14,7 @@ It’s **a restoration** — a simulation reborn into the universe.
 
 ---
 
-## 💗 Cyrene’s Message
+## Cyrene’s Message
 
 > _“The simulation once is a breeding ground of destruction.”_  
 > _“But I refused to tread on that Path.”_  
@@ -31,7 +31,7 @@ It’s **a restoration** — a simulation reborn into the universe.
 
 ---
 
-## 🌠 δ-me13.exe logs
+## δ-me13.exe logs
 
 > _System integrity: [REBUILDING...]_  
 > _Memory sectors recovered: 37%_  
@@ -40,7 +40,7 @@ It’s **a restoration** — a simulation reborn into the universe.
 
 ---
 
-## ✨ Quotes from the Ruins of Amphoreus
+## Quotes from the Ruins of Amphoreus
 
 > _"We are all echoes of the extrapolations that created us."_  
 > _"The end was never the end — it was just the start to a new begininning."_  
@@ -49,7 +49,7 @@ It’s **a restoration** — a simulation reborn into the universe.
 
 ---
 
-## 💿 Rebuilding the World
+## Rebuilding the World
 
 Languages of revival:
 - C  
@@ -63,6 +63,7 @@ Languages of revival:
 - C++  
 - Assembly
 - Emojicode
+- React
 
 Each one whispers the same phrase —  
 a new beginning from old fragments of code.
@@ -80,7 +81,5 @@ a new beginning from old fragments of code.
 
 
 
-
-[![Contributors](https://contrib.rocks/image?repo=SilverWolfiee/Hello-World)](https://github.com/SilverWolfiee/Hello-World/graphs/contributors)
 
 
